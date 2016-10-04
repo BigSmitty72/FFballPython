@@ -2,8 +2,8 @@ import mechanize
 from bs4 import BeautifulSoup, SoupStrainer
 import re
 
-league = "574839"
-season = "2015"
+league = "70928"
+season = "2016"
 
 
 def standings_html():

@@ -26,9 +26,9 @@ setup(
     version='0.0.1',
     description="Python Library for interacting with Fantasy Football Leagues.",
     long_description=readme + '\n\n' + history,
-    author="Tyler Barber",
-    author_email='tylerwbarber@gmail.com',
-    url='https://github.com/twbarber/fflib',
+    author="Jason Smith",
+    author_email='jasonsmith7272@gmail.com',
+    url='https://github.com/BigSmitty72/FFballPython',
     packages=[
         'fflib',
     ],
